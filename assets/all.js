@@ -14,7 +14,7 @@ function randomSong() {
     return (audio = new Audio("assets/Bongo Bong.mp3"));
   }
   if (numba > 0.76 && numba < 1) {
-    return (audio = new Audio("assets/Me Gustas Tu.mp3"));
+    return (audio = new Audio("assets/Over the Rainbow.mp3"));
   }
 }
 
